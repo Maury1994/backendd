@@ -12,7 +12,7 @@ import { AppService } from './app.service';
       url: process.env.DATABASE_URL,
       port: 5432,
       username: 'postgres', // tu usuario de postgres
-      password: 'pNRHxLIfNohIvqWOUAlmeRaMVJIwhcRE',    // tu contraseña
+      password: 'nnRXAMntvrEGUojNOzXTIspnHlNPXjGx',    // tu contraseña
       database: 'railway',
       autoLoadEntities: true,
       synchronize: true,
